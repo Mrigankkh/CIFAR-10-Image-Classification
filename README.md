@@ -1,6 +1,6 @@
 # CIFAR-10-Image-Classification
 
-In this project, I have classified images from the CIFAR-10 dataset  using CNN and ResNet model.. The dataset consists of airplanes, dogs, cats, and other objects.I have  trained my model on Google Colab using thousands of images in the training set and attained an accuracy of XX.XX% against the test set.
+In this project, I have classified images from the CIFAR-10 dataset  using CNN and ResNet model.. The dataset consists of airplanes, dogs, cats, and other objects.I have  trained my model on Google Colab using thousands of images in the training set and attained an accuracy of 90.31% against the test set.
 
 # Contents
 1. Python Libraries
@@ -34,13 +34,13 @@ A modified version of the ResNet-50 model was used.
 
 
 # Training the model
-I trained this model in an online cloud instance on Google Colab over 30 epochs. 
+I trained this model in an online cloud instance on Google Colab over 25 epochs. 
 
-Train accuracy: XX.XX%
+Train accuracy: 93.41%
 
 # Prediction
 
-The model achieved XX.XX% accuracy.
+The model achieved 90.31% accuracy.
 
 
 
