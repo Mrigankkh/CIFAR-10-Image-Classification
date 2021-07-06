@@ -42,5 +42,10 @@ Train accuracy: 93.41%
 
 The model achieved 90.31% accuracy.
 
+https://github.com/Mrigankkh/CIFAR-10-Image-Classification/blob/main/result/cifaracc.png
+
+
+https://github.com/Mrigankkh/CIFAR-10-Image-Classification/blob/main/result/cifarval.png
+
 
 
